@@ -9,4 +9,4 @@ The Remote PHY Monitoring package empowers you to effortlessly access and consol
 
 The single entry point provided for the operator's entire installed base of Remote PHY nodes eliminates the need for operators to hop between the interfaces of the different RPM elements, as necessary to support the actual volume of these.
 
-![R-PHYMonitoringMainPage_gif](./Images/R-PHYMonitoringMainPage_gif.png)
+![R-PHYMonitoringMainPage_gif](./Images/R-PHYMonitoringMainPage_gif.gif)
