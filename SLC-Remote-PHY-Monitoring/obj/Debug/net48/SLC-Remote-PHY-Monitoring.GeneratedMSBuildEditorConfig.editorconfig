@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = SLC-Remote-PHY-Monitoring
-build_property.ProjectDir = C:\Users\MariaCU\source\repos\SLC-Remote-PHY-Monitoring\SLC-Remote-PHY-Monitoring\
+build_property.ProjectDir = C:\Users\MariaCU\OneDrive - Skyline Communications NV\Documents\SLC-S-Remote-PHY-Monitoring\SLC-Remote-PHY-Monitoring\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

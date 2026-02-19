@@ -1,1 +1,1 @@
-# Technical Documentation for SLC-Remote-PHY-Monitoring
+# Technical Documentation for SLC-S-Remote-PHY-Monitoring

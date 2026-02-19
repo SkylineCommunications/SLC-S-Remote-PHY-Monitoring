@@ -25,7 +25,7 @@ type: Custom Solution
 # If the ID is filled in but does not exist yet, a new Catalog item will be registered with this ID.
 # If the ID is filled in but does exist, properties of the item will be overwritten.
 #   Must be a valid GUID.
-id: 24f2224d-df88-4876-8401-e5c704144d7f
+id: 4abaa31f-faa6-44d1-a737-7eebb8fdb649
 
 # [Required] 
 # The human-friendly name of the Catalog item. 
@@ -33,7 +33,7 @@ id: 24f2224d-df88-4876-8401-e5c704144d7f
 #   Max length: 100 characters.
 #   Cannot contain newlines.
 #   Cannot contain leading or trailing whitespace characters.
-title: SLC-Remote-PHY-Monitoring
+title: Remote PHY Monitoring
 
 # [Optional]
 # General information about the Catalog item.

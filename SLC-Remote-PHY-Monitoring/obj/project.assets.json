@@ -173,25 +173,25 @@
           }
         }
       },
-      "Skyline.DataMiner.Dev.Automation/10.3.0.25": {
+      "Skyline.DataMiner.Dev.Automation/10.6.2.2": {
         "type": "package",
         "dependencies": {
-          "Skyline.DataMiner.Dev.Common": "10.3.0.25",
-          "Skyline.DataMiner.Files.SLAnalyticsTypes": "10.3.0.25",
-          "Skyline.DataMiner.Files.SLManagedAutomation": "10.3.0.25"
+          "Skyline.DataMiner.Dev.Common": "10.6.2.2",
+          "Skyline.DataMiner.Files.SLAnalyticsTypes": "10.6.2.2",
+          "Skyline.DataMiner.Files.SLManagedAutomation": "10.6.2.2"
         }
       },
-      "Skyline.DataMiner.Dev.Common/10.3.0.25": {
+      "Skyline.DataMiner.Dev.Common/10.6.2.2": {
         "type": "package",
         "dependencies": {
           "Newtonsoft.Json": "13.0.2",
           "SharpZipLib": "1.3.3",
-          "Skyline.DataMiner.Files.DataMinerMessageBroker.API": "10.3.0.25",
-          "Skyline.DataMiner.Files.SLLoggerUtil": "10.3.0.25",
-          "Skyline.DataMiner.Files.SLNetTypes": "10.3.0.25",
-          "Skyline.DataMiner.Files.SLProtoBufLibrary": "10.3.0.25",
-          "Skyline.DataMiner.Files.Skyline.DataMiner.Storage.Types": "10.3.0.25",
-          "Skyline.DataMiner.Files.protobufnet": "10.3.0.25"
+          "Skyline.DataMiner.Files.DataMinerMessageBroker.API": "10.6.2.2",
+          "Skyline.DataMiner.Files.SLLoggerUtil": "10.6.2.2",
+          "Skyline.DataMiner.Files.SLNetTypes": "10.6.2.2",
+          "Skyline.DataMiner.Files.SLProtoBufLibrary": "10.6.2.2",
+          "Skyline.DataMiner.Files.Skyline.DataMiner.Storage.Types": "10.6.2.2",
+          "Skyline.DataMiner.Files.protobufnet": "10.6.2.2"
         },
         "frameworkAssemblies": [
           "System",
@@ -199,7 +199,7 @@
           "System.Xml"
         ]
       },
-      "Skyline.DataMiner.Files.DataMinerMessageBroker.API/10.3.0.25": {
+      "Skyline.DataMiner.Files.DataMinerMessageBroker.API/10.6.2.2": {
         "type": "package",
         "compile": {
           "ref/net462/DataMinerMessageBroker.API.dll": {}
@@ -208,7 +208,7 @@
           "lib/net462/DataMinerMessageBroker.API.dll": {}
         }
       },
-      "Skyline.DataMiner.Files.protobufnet/10.3.0.25": {
+      "Skyline.DataMiner.Files.protobufnet/10.6.2.2": {
         "type": "package",
         "compile": {
           "lib/net462/_._": {}
@@ -217,7 +217,7 @@
           "lib/net462/protobuf-net.dll": {}
         }
       },
-      "Skyline.DataMiner.Files.Skyline.DataMiner.Storage.Types/10.5.7.2": {
+      "Skyline.DataMiner.Files.Skyline.DataMiner.Storage.Types/10.6.2.2": {
         "type": "package",
         "compile": {
           "ref/net462/Skyline.DataMiner.Storage.Types.dll": {}
@@ -226,7 +226,7 @@
           "lib/net462/Skyline.DataMiner.Storage.Types.dll": {}
         }
       },
-      "Skyline.DataMiner.Files.SLAnalyticsTypes/10.3.0.25": {
+      "Skyline.DataMiner.Files.SLAnalyticsTypes/10.6.2.2": {
         "type": "package",
         "compile": {
           "lib/net462/SLAnalyticsTypes.dll": {}
@@ -235,7 +235,7 @@
           "lib/net462/SLAnalyticsTypes.dll": {}
         }
       },
-      "Skyline.DataMiner.Files.SLLoggerUtil/10.3.0.25": {
+      "Skyline.DataMiner.Files.SLLoggerUtil/10.6.2.2": {
         "type": "package",
         "compile": {
           "ref/net462/SLLoggerUtil.dll": {}
@@ -244,7 +244,7 @@
           "lib/net462/SLLoggerUtil.dll": {}
         }
       },
-      "Skyline.DataMiner.Files.SLManagedAutomation/10.3.0.25": {
+      "Skyline.DataMiner.Files.SLManagedAutomation/10.6.2.2": {
         "type": "package",
         "compile": {
           "lib/net462/SLManagedAutomation.dll": {
@@ -257,7 +257,7 @@
           }
         }
       },
-      "Skyline.DataMiner.Files.SLNetTypes/10.5.7.2": {
+      "Skyline.DataMiner.Files.SLNetTypes/10.6.2.2": {
         "type": "package",
         "compile": {
           "ref/net462/SLNetTypes.dll": {
@@ -270,7 +270,7 @@
           }
         }
       },
-      "Skyline.DataMiner.Files.SLProtoBufLibrary/10.3.0.25": {
+      "Skyline.DataMiner.Files.SLProtoBufLibrary/10.6.2.2": {
         "type": "package",
         "compile": {
           "lib/net462/_._": {}
@@ -280,6 +280,9 @@
         }
       },
       "Skyline.DataMiner.Utils.SecureCoding.Analyzers/2.2.1": {
+        "type": "package"
+      },
+      "StyleCop.Analyzers/1.1.118": {
         "type": "package"
       },
       "System.Buffers/4.6.1": {
@@ -745,38 +748,38 @@
         "skyline.dataminer.core.artifactinstaller.nuspec"
       ]
     },
-    "Skyline.DataMiner.Dev.Automation/10.3.0.25": {
-      "sha512": "qaQI0/mVOeyMLP9ocPAYm6OKCnP2n1OuSlsmXJW8cOtdZAj6cCSUp+7MWTmLLHoyhjivi62Q/b2soz36cb8kwQ==",
+    "Skyline.DataMiner.Dev.Automation/10.6.2.2": {
+      "sha512": "QHj16mjEb799TWPBvVEiAXwzWY7xHFTmTpp0DlWCa2Dg752WHCxxdCh313RPt/bADdmmjPlSh1VhYGF0W3jCpA==",
       "type": "package",
-      "path": "skyline.dataminer.dev.automation/10.3.0.25",
+      "path": "skyline.dataminer.dev.automation/10.6.2.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.txt",
         "docs/README.md",
         "images/devicon.png",
-        "skyline.dataminer.dev.automation.10.3.0.25.nupkg.sha512",
+        "skyline.dataminer.dev.automation.10.6.2.2.nupkg.sha512",
         "skyline.dataminer.dev.automation.nuspec"
       ]
     },
-    "Skyline.DataMiner.Dev.Common/10.3.0.25": {
-      "sha512": "pFtqY5if3s2TtXtfvPlUow0/7JNfPjd7SYquOs/ktALoeeiQ3Jlwt9CtaSmfsZytI93HIHpSSy3yMN6ILsx+6Q==",
+    "Skyline.DataMiner.Dev.Common/10.6.2.2": {
+      "sha512": "DXZkF21MoHpwHE18SfEs3ZvMNOa16nhuWZPURvWikqR62mhNBkYpKMzRheEaNUkaV/DeeXqOZViogm50hIBwJw==",
       "type": "package",
-      "path": "skyline.dataminer.dev.common/10.3.0.25",
+      "path": "skyline.dataminer.dev.common/10.6.2.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.txt",
         "docs/README.md",
         "images/devicon.png",
-        "skyline.dataminer.dev.common.10.3.0.25.nupkg.sha512",
+        "skyline.dataminer.dev.common.10.6.2.2.nupkg.sha512",
         "skyline.dataminer.dev.common.nuspec"
       ]
     },
-    "Skyline.DataMiner.Files.DataMinerMessageBroker.API/10.3.0.25": {
-      "sha512": "Ov00rD4JsKLKpa5S9HGQlwFpGuWmWwrxNVbsNvNG5RjDbp8jm1W5KPg0qFvjCtFrksQ1fs7/LmW22kuBvvQp4Q==",
+    "Skyline.DataMiner.Files.DataMinerMessageBroker.API/10.6.2.2": {
+      "sha512": "/rB6QKRLTqKb+iWE6qWnOUh0wXUTq6UP83utArbjmwAXhWNrq8h89I0ZzaOZhk1rxQHNTOvfpgkr+2m4BFq93g==",
       "type": "package",
-      "path": "skyline.dataminer.files.dataminermessagebroker.api/10.3.0.25",
+      "path": "skyline.dataminer.files.dataminermessagebroker.api/10.6.2.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -785,14 +788,14 @@
         "images/fileicon.png",
         "lib/net462/DataMinerMessageBroker.API.dll",
         "ref/net462/DataMinerMessageBroker.API.dll",
-        "skyline.dataminer.files.dataminermessagebroker.api.10.3.0.25.nupkg.sha512",
+        "skyline.dataminer.files.dataminermessagebroker.api.10.6.2.2.nupkg.sha512",
         "skyline.dataminer.files.dataminermessagebroker.api.nuspec"
       ]
     },
-    "Skyline.DataMiner.Files.protobufnet/10.3.0.25": {
-      "sha512": "L1ojRg7/MpqeTXKYppJhrZqZfXDM1eDZ8WKhaIQFAfpn4rgBE/c0gGAjj+yq2tKpfZGdWf1w3QFHAypjgYmQwQ==",
+    "Skyline.DataMiner.Files.protobufnet/10.6.2.2": {
+      "sha512": "IaS6fnLZtHEfUvKO2S+ZfLp1NHNV3Xl8hnZ2eRGY3hjO4QNR14Rth7LBLm7UfDgwAMW0QjOLqWuyMOGT0RO8vA==",
       "type": "package",
-      "path": "skyline.dataminer.files.protobufnet/10.3.0.25",
+      "path": "skyline.dataminer.files.protobufnet/10.6.2.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -800,14 +803,14 @@
         "docs/README.md",
         "images/fileicon.png",
         "lib/net462/protobuf-net.dll",
-        "skyline.dataminer.files.protobufnet.10.3.0.25.nupkg.sha512",
+        "skyline.dataminer.files.protobufnet.10.6.2.2.nupkg.sha512",
         "skyline.dataminer.files.protobufnet.nuspec"
       ]
     },
-    "Skyline.DataMiner.Files.Skyline.DataMiner.Storage.Types/10.5.7.2": {
-      "sha512": "oQtdZBmt+H2gCy5dXbsLtDCEpdFyB/SHUuVcgvGsr/g4NlO7GY8bzwX2XM3fOnFq2DMIU+ECgXXA0rrVLkbdfQ==",
+    "Skyline.DataMiner.Files.Skyline.DataMiner.Storage.Types/10.6.2.2": {
+      "sha512": "Ub19VR5PJUxmQtdL0XafwUbVcbOpQg56ico8NdtXlKSHbmu4v0rrWS6b2BSfFn06lCYIVISaE4Trn0IuWkRRuA==",
       "type": "package",
-      "path": "skyline.dataminer.files.skyline.dataminer.storage.types/10.5.7.2",
+      "path": "skyline.dataminer.files.skyline.dataminer.storage.types/10.6.2.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -816,14 +819,14 @@
         "images/fileicon.png",
         "lib/net462/Skyline.DataMiner.Storage.Types.dll",
         "ref/net462/Skyline.DataMiner.Storage.Types.dll",
-        "skyline.dataminer.files.skyline.dataminer.storage.types.10.5.7.2.nupkg.sha512",
+        "skyline.dataminer.files.skyline.dataminer.storage.types.10.6.2.2.nupkg.sha512",
         "skyline.dataminer.files.skyline.dataminer.storage.types.nuspec"
       ]
     },
-    "Skyline.DataMiner.Files.SLAnalyticsTypes/10.3.0.25": {
-      "sha512": "CgHUzRmn0FvchQarRXzOh3JSrKg+nbp/rQciUri7F8AsBNmXR6w/8p5QQ5Ggxnqdihehb0pUn/FS5g8uMSjmpg==",
+    "Skyline.DataMiner.Files.SLAnalyticsTypes/10.6.2.2": {
+      "sha512": "/EtkaO4sXBRnVL5wwr4BVNvyBUK7BcdTxf1kAEdKf691NKXvD5p7YF/ezmW4rBhVC32Iq1PsVUubJ3IgnDTNCw==",
       "type": "package",
-      "path": "skyline.dataminer.files.slanalyticstypes/10.3.0.25",
+      "path": "skyline.dataminer.files.slanalyticstypes/10.6.2.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -831,14 +834,14 @@
         "docs/README.md",
         "images/fileicon.png",
         "lib/net462/SLAnalyticsTypes.dll",
-        "skyline.dataminer.files.slanalyticstypes.10.3.0.25.nupkg.sha512",
+        "skyline.dataminer.files.slanalyticstypes.10.6.2.2.nupkg.sha512",
         "skyline.dataminer.files.slanalyticstypes.nuspec"
       ]
     },
-    "Skyline.DataMiner.Files.SLLoggerUtil/10.3.0.25": {
-      "sha512": "Xi67vvG6FbT2T4m0UEg9dI0A0owF7t3ihH0ImJJ/U4+mW0Ho2epyevULsIYb82Fc+frwNrcdld8EMcL7tRcM+g==",
+    "Skyline.DataMiner.Files.SLLoggerUtil/10.6.2.2": {
+      "sha512": "D18T6/Uq9fDyilKIg3oCEAFaBYm+n5lSbVnZ4tFFm1uo8osd5DQ6wKv8mzXxBqukZDJkWRUG0jsvgb/unvtEgA==",
       "type": "package",
-      "path": "skyline.dataminer.files.slloggerutil/10.3.0.25",
+      "path": "skyline.dataminer.files.slloggerutil/10.6.2.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -847,14 +850,14 @@
         "images/fileicon.png",
         "lib/net462/SLLoggerUtil.dll",
         "ref/net462/SLLoggerUtil.dll",
-        "skyline.dataminer.files.slloggerutil.10.3.0.25.nupkg.sha512",
+        "skyline.dataminer.files.slloggerutil.10.6.2.2.nupkg.sha512",
         "skyline.dataminer.files.slloggerutil.nuspec"
       ]
     },
-    "Skyline.DataMiner.Files.SLManagedAutomation/10.3.0.25": {
-      "sha512": "7zeoetNRf3y3DprzUMkkXU/wF+MinUcFfasrlUtaobQB6b6qYtjgaCErg+g+xVahNc/U6MqyZaxvPF3907NSOw==",
+    "Skyline.DataMiner.Files.SLManagedAutomation/10.6.2.2": {
+      "sha512": "6qBxCj17RDCHn2iSnpDR7OJ8ZNPOd44w7VnkXWj+7YdCPIqODcc4m2fbmQ0F8JjjDuMnuay0vDadkJpmSo3hOg==",
       "type": "package",
-      "path": "skyline.dataminer.files.slmanagedautomation/10.3.0.25",
+      "path": "skyline.dataminer.files.slmanagedautomation/10.6.2.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -863,14 +866,14 @@
         "images/fileicon.png",
         "lib/net462/SLManagedAutomation.dll",
         "lib/net462/SLManagedAutomation.xml",
-        "skyline.dataminer.files.slmanagedautomation.10.3.0.25.nupkg.sha512",
+        "skyline.dataminer.files.slmanagedautomation.10.6.2.2.nupkg.sha512",
         "skyline.dataminer.files.slmanagedautomation.nuspec"
       ]
     },
-    "Skyline.DataMiner.Files.SLNetTypes/10.5.7.2": {
-      "sha512": "hKpcdQepp+G6etZfrOsuXSCXGFJHSXh5FQzattZuxlhe5DIZoawcx0FwyZTs7o2Yyll4MFpjJtVMJy/mUX/HhQ==",
+    "Skyline.DataMiner.Files.SLNetTypes/10.6.2.2": {
+      "sha512": "zZ6g+6pJD7eHtzrUAMMn6vxRKO41LX9Q9opJmq614hkMZXsospZQm+KNfEZZT0naGAo4opcbMYSjqt7xFEHf5w==",
       "type": "package",
-      "path": "skyline.dataminer.files.slnettypes/10.5.7.2",
+      "path": "skyline.dataminer.files.slnettypes/10.6.2.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -881,14 +884,14 @@
         "lib/net462/SLNetTypes.xml",
         "ref/net462/SLNetTypes.dll",
         "ref/net462/SLNetTypes.xml",
-        "skyline.dataminer.files.slnettypes.10.5.7.2.nupkg.sha512",
+        "skyline.dataminer.files.slnettypes.10.6.2.2.nupkg.sha512",
         "skyline.dataminer.files.slnettypes.nuspec"
       ]
     },
-    "Skyline.DataMiner.Files.SLProtoBufLibrary/10.3.0.25": {
-      "sha512": "WZc7D2hl9svnDpmmFLJB0iT+2pGgbHV1C6+RRogCJzlMn1uCwlsnpdaqUp5HcpwatSwJRvPv+rXQZ2QvqVM1KA==",
+    "Skyline.DataMiner.Files.SLProtoBufLibrary/10.6.2.2": {
+      "sha512": "vPH7ORSy7e7z7SkV/gKQdmZE+7MpL//++JuWfi2AH6sKAHuqGpX9kfdR0cNsMycFrG68T9nKS7jZ4qXNYCsKCg==",
       "type": "package",
-      "path": "skyline.dataminer.files.slprotobuflibrary/10.3.0.25",
+      "path": "skyline.dataminer.files.slprotobuflibrary/10.6.2.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -896,7 +899,7 @@
         "docs/README.md",
         "images/fileicon.png",
         "lib/net462/SLProtoBufLibrary.dll",
-        "skyline.dataminer.files.slprotobuflibrary.10.3.0.25.nupkg.sha512",
+        "skyline.dataminer.files.slprotobuflibrary.10.6.2.2.nupkg.sha512",
         "skyline.dataminer.files.slprotobuflibrary.nuspec"
       ]
     },
@@ -913,6 +916,31 @@
         "analyzers/dotnet/cs/Analyzers.dll",
         "skyline.dataminer.utils.securecoding.analyzers.2.2.1.nupkg.sha512",
         "skyline.dataminer.utils.securecoding.analyzers.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
+    "StyleCop.Analyzers/1.1.118": {
+      "sha512": "Onx6ovGSqXSK07n/0eM3ZusiNdB6cIlJdabQhWGgJp3Vooy9AaLS/tigeybOJAobqbtggTamoWndz72JscZBvw==",
+      "type": "package",
+      "path": "stylecop.analyzers/1.1.118",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.txt",
+        "analyzers/dotnet/cs/StyleCop.Analyzers.CodeFixes.dll",
+        "analyzers/dotnet/cs/StyleCop.Analyzers.dll",
+        "analyzers/dotnet/cs/de-DE/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/en-GB/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/es-MX/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/fr-FR/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/pl-PL/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/pt-BR/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/ru-RU/StyleCop.Analyzers.resources.dll",
+        "stylecop.analyzers.1.1.118.nupkg.sha512",
+        "stylecop.analyzers.nuspec",
         "tools/install.ps1",
         "tools/uninstall.ps1"
       ]
@@ -1265,24 +1293,30 @@
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.8": [
       "Skyline.DataMiner.Core.AppPackageInstaller >= 3.3.0",
-      "Skyline.DataMiner.Dev.Automation >= 10.3.0.25",
-      "Skyline.DataMiner.Utils.SecureCoding.Analyzers >= 2.2.1"
+      "Skyline.DataMiner.Dev.Automation >= 10.6.2.2",
+      "Skyline.DataMiner.Utils.SecureCoding.Analyzers >= 2.2.1",
+      "StyleCop.Analyzers >= 1.1.118"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MariaCU\\.nuget\\packages\\": {}
+    "C:\\Users\\MariaCU\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MariaCU\\source\\repos\\SLC-Remote-PHY-Monitoring\\SLC-Remote-PHY-Monitoring\\SLC-Remote-PHY-Monitoring.csproj",
-      "projectName": "SLC-Remote-PHY-Monitoring",
-      "projectPath": "C:\\Users\\MariaCU\\source\\repos\\SLC-Remote-PHY-Monitoring\\SLC-Remote-PHY-Monitoring\\SLC-Remote-PHY-Monitoring.csproj",
+      "projectUniqueName": "C:\\Users\\MariaCU\\OneDrive - Skyline Communications NV\\Documents\\SLC-S-Remote-PHY-Monitoring\\SLC-Remote-PHY-Monitoring\\SLC-S-Remote-PHY-Monitoring.csproj",
+      "projectName": "SLC-S-Remote-PHY-Monitoring",
+      "projectPath": "C:\\Users\\MariaCU\\OneDrive - Skyline Communications NV\\Documents\\SLC-S-Remote-PHY-Monitoring\\SLC-Remote-PHY-Monitoring\\SLC-S-Remote-PHY-Monitoring.csproj",
       "packagesPath": "C:\\Users\\MariaCU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MariaCU\\source\\repos\\SLC-Remote-PHY-Monitoring\\SLC-Remote-PHY-Monitoring\\obj\\",
+      "outputPath": "C:\\Users\\MariaCU\\OneDrive - Skyline Communications NV\\Documents\\SLC-S-Remote-PHY-Monitoring\\SLC-Remote-PHY-Monitoring\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\MariaCU\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1290,6 +1324,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1308,7 +1343,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net48": {
@@ -1322,16 +1357,22 @@
           "Skyline.DataMiner.Dev.Automation": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[10.3.0.25, )"
+            "version": "[10.6.2.2, )"
           },
           "Skyline.DataMiner.Utils.SecureCoding.Analyzers": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
             "version": "[2.2.1, )"
+          },
+          "StyleCop.Analyzers": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[1.1.118, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200-preview.0.26103.119\\RuntimeIdentifierGraph.json"
       }
     }
   }
