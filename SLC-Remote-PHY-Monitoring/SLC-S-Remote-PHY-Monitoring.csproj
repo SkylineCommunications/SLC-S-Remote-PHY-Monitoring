@@ -20,7 +20,7 @@
 	  <None Remove="PackageContent\LowCodeApps\R-PHY Monitoring_32735abe-2f49-4c1a-a982-043f2d64629f.zip" />
 	</ItemGroup>
 	<ItemGroup>
-		<PackageReference Include="Skyline.DataMiner.Core.AppPackageInstaller" Version="3.3.0" />
+		<PackageReference Include="Skyline.DataMiner.Core.AppPackageInstaller" Version="4.0.0" />
 		<PackageReference Include="Skyline.DataMiner.Dev.Automation" Version="10.6.2.2" />
 		<PackageReference Include="Skyline.DataMiner.Utils.SecureCoding.Analyzers" Version="2.2.1">
 			<PrivateAssets>all</PrivateAssets>
