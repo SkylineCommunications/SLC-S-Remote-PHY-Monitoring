@@ -1,0 +1,39 @@
+# Visual Studio cache/options
+.vs/
+
+# Build results
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+*.sln.docstates
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.sln
+*.csproj.user
+
+# Local history
+.history/
+.ionide/
+
+# User-specific files
+*.rsuser
+
+# NuGet
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+
+# ReSharper
+.idea/
+*.resharper
+*.resharper.user
+
+# Output
+out/
+publish/

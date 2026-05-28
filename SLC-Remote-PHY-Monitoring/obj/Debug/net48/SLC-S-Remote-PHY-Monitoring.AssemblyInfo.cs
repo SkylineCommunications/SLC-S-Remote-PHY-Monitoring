@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SLC-S-Remote-PHY-Monitoring")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b599f8104067e4b0d7c1ee0c4597c0a6d7a6353c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+131639f9558c4b158c4c857b8aa11bde445071e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SLC-S-Remote-PHY-Monitoring")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SLC-S-Remote-PHY-Monitoring")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

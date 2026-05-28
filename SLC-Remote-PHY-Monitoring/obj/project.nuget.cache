@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l1w5m54TEG0=",
+  "dgSpecHash": "Cyv9VYL+IwE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MariaCU\\OneDrive - Skyline Communications NV\\Documents\\SLC-S-Remote-PHY-Monitoring\\SLC-Remote-PHY-Monitoring\\SLC-S-Remote-PHY-Monitoring.csproj",
+  "projectFilePath": "C:\\Users\\MariaCU\\source\\repos\\SLC-S-Remote-PHY-Monitoring\\SLC-Remote-PHY-Monitoring\\SLC-S-Remote-PHY-Monitoring.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MariaCU\\.nuget\\packages\\alphafs.new\\2.3.0\\alphafs.new.2.3.0.nupkg.sha512",
     "C:\\Users\\MariaCU\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.8\\microsoft.bcl.asyncinterfaces.9.0.8.nupkg.sha512",
